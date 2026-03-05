@@ -54,3 +54,5 @@ Para utilizarlo en el proyecto fue necesario:
 
 Debido a esto, para ejecutar correctamente el sistema es necesario descargar el mapa de Argentina y levantar el servidor de OSRM local, ya que el backend depende de este servicio para calcular las distancias
 entre puntos geográficos.
+
+Cabe aclarar que los microservicios estan todos conectados a través de un API gateway
